@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="14be324d">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="3a89f926">
+        <description>Created after removal of "Nature's Home" from Help Instance</description>
+        <accepts>Home.html</accepts>
+    </rule>
+    <rule id="3bb627e7">
+        <description>Created after removal of "Empty XML Topic" from Help Instance</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+</rules>
